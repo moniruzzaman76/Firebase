@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198749887583",
+    "project_id": "flutter-batch-one-a5790",
+    "storage_bucket": "flutter-batch-one-a5790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198749887583:android:cc32849a2bc72e1e07cfea",
+        "android_client_info": {
+          "package_name": "com.example.firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198749887583-jo0sbrfdakacp6kuu14trqe8k75aq073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2nOao3n68jCKdC0TvmimvUEqfinU_ho0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198749887583-jo0sbrfdakacp6kuu14trqe8k75aq073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
